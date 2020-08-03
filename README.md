@@ -5,10 +5,10 @@
 
 <p align="center">Information systems bachelor | Minas Gerais - Brazil</p>
 
-- 🧑🏻‍💻 I’m currently working on Flutter mobile development
-- 💜 Currently learning Node.js, Typescript, ReactJs and React Native on [**@Rocketseat**](https://github.com/Rocketseat)
-- 👯 I’m looking to collaborate on community and new open souce projects 
-- 📫 How to reach me:
+- 🧑🏻‍💻  I’m currently working on Flutter mobile development
+- 💜  Currently learning Node.js, Typescript, ReactJs and React Native on [**@Rocketseat**](https://github.com/Rocketseat)
+- 👯  I’m looking to collaborate on community and new open souce projects 
+- 📫  How to reach me:
   
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rebeccamanzi/)](https://www.linkedin.com/in/maicon-pereira)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat-square&labelColor=C13584&logo=instagram&logoColor=white&link=https://www.instagram.com/codepwr/)](https://www.instagram.com/maiconpereira0/)
