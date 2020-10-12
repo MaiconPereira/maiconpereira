@@ -5,7 +5,7 @@
 
 <p align="center">Information systems bachelor | Minas Gerais - Brazil</p>
 
-- 🧑🏻‍💻  I’m currently working on Flutter mobile development
+- 🧑🏻‍💻  I’m currently working on React Native mobile development
 - 💜  Currently learning Node.js, Typescript, ReactJs and React Native on [**@Rocketseat**](https://github.com/Rocketseat)
 - 👯  I’m looking to collaborate on community and new open souce projects 
 - 📫  How to reach me:
