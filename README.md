@@ -1,11 +1,11 @@
 # Maicon Pereira
-<h3>A Web & Mobile Developer</h3>
+<h3>A Full Stack Developer</h3>
 
 <h3 align="center">Enthusiast of the best web & mobile development technologies.</h3>
 
 <p align="center">Information systems bachelor | Minas Gerais - Brazil</p>
 
-- 🧑🏻‍💻  I’m currently working on React Native mobile development
+- 🧑🏻‍💻  I’m currently working whith Angular and NextJS on softwares development
 - 💜  Currently learning Node.js, Typescript, ReactJs and React Native on [**@Rocketseat**](https://github.com/Rocketseat)
 - 👯  I’m looking to collaborate on community and new open souce projects 
 - 📫  How to reach me:
