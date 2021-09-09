@@ -1,10 +1,10 @@
+# Maicon Pereira
+<h3>A Full Stack Developer</h3>
+
 <div style='margin-left:10px;'>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=maiconpereira&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maiconpereira&layout=compact&langs_count=7&theme=dracula"/>
 </div>
-
-# Maicon Pereira
-<h3>A Full Stack Developer</h3>
 
 <h3 align="center">Enthusiast of the best web & mobile development technologies.</h3>
 
@@ -37,4 +37,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
