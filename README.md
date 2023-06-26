@@ -6,11 +6,11 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maiconpereira&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
-<h3 align="center">Enthusiast of the best web & mobile development technologies.</h3>
+<h3 align="center">Enthusiast of the best development technologies.</h3>
 
 <p align="center">Information systems bachelor | Minas Gerais - Brazil</p>
 
-- 🧑🏻‍💻  I’m currently working whith Angular and NextJS on softwares development
+- 🧑🏻‍💻  I’m currently working whith Angular and NestJS on softwares development
 - 💜  Currently learning Node.js, Typescript, ReactJs and React Native on [**@Rocketseat**](https://github.com/Rocketseat)
 - 👯  I’m looking to collaborate on community and new open souce projects 
 - 📫  How to reach me:
