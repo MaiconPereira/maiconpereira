@@ -11,7 +11,7 @@
 <p align="center">Information systems bachelor | Minas Gerais - Brazil</p>
 
 - 🧑🏻‍💻  I’m currently working whith Angular and NestJS on softwares development
-- 💜  Currently learning Node.js, Typescript, ReactJs and React Native on [**@Rocketseat**](https://github.com/Rocketseat)
+- 💜  Currently learning about Full Cycle Software Development on [**@Fullcycle**](https://github.com/codeedu)
 - 👯  I’m looking to collaborate on community and new open souce projects 
 - 📫  How to reach me:
   
